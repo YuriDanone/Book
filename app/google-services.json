@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "187988156093",
+    "firebase_url": "https://book-a12f8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "book-a12f8",
+    "storage_bucket": "book-a12f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187988156093:android:ad4ab52b5ab86460ba61d4",
+        "android_client_info": {
+          "package_name": "com.example.testbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABk-9GEvOsZgtdC57jniu0S5A6q-Sv57o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

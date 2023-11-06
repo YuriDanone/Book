@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestBook</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_dashboard_admin">DashboardAdminActivity</string>
+    <string name="title_activity_category_add">CategoryAddActivity</string>
+    <string name="title_activity_pdf_add">PdfAddActivity</string>
+    <string name="title_activity_pdf_list_admin">PdfListAdminActivity</string>
+    <string name="title_activity_pdf_edit">PdfEditActivity</string>
+    <string name="title_activity_pdf_detail">PdfDetailActivity</string>
+    <string name="title_activity_pdf_view">PdfViewActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
